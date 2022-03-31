@@ -103,9 +103,9 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: "Open Sans", Helvetica, sans-serif;
+		font-family: "Mulish", sans-serif;
 		font-size: 15pt;
-		font-weight: 400;
+		font-weight: 200;
 		letter-spacing: 0.075em;
 		line-height: 1.65em;
 	}
@@ -2078,15 +2078,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #ffffff;
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #ffffff;
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #ffffff;
 		}
 
 /* Image */
@@ -2487,7 +2487,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ed4933;
+			background-color: #666666;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2497,7 +2497,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #ef5e4a !important;
+				background-color: #ADADAD !important;
 			}
 
 			input[type="submit"].primary:active,
@@ -2817,8 +2817,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
-			color: #c8ece9;
+			background-color: #D6B034;
+			color: #ffffff;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -2842,7 +2842,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header p {
-				color: #a6e0db;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 header.major h2, .wrapper.style1 header.major h3, .wrapper.style1 header.major h4, .wrapper.style1 header.major h5, .wrapper.style1 header.major h6 {
@@ -2850,7 +2850,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c8ece9;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 label {
@@ -2871,7 +2871,7 @@ input, select, textarea {
 
 				.wrapper.style1 select option {
 					color: #ffffff;
-					background: #21b2a6;
+					background: #ffffff;
 				}
 
 			.wrapper.style1 input[type="checkbox"] + label,
@@ -2887,27 +2887,27 @@ input, select, textarea {
 			.wrapper.style1 input[type="checkbox"]:checked + label:before,
 			.wrapper.style1 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #21b2a6;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
-				color: #a6e0db !important;
+				color: #ffffff !important;
 			}
 
 			.wrapper.style1 :-moz-placeholder {
-				color: #a6e0db !important;
+				color: #ffffff !important;
 			}
 
 			.wrapper.style1 ::-moz-placeholder {
-				color: #a6e0db !important;
+				color: #ffffff !important;
 			}
 
 			.wrapper.style1 :-ms-input-placeholder {
-				color: #a6e0db !important;
+				color: #ffffff !important;
 			}
 
 			.wrapper.style1 .formerize-placeholder {
-				color: #a6e0db !important;
+				color: #ffffff !important;
 			}
 
 			.wrapper.style1 .icon.major {
